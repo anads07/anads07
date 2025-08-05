@@ -1,54 +1,34 @@
 ### Olá! Eu sou a Ana Clara Vicentini 👋
 
-🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI | Foco em Front-end, Design de Interfaces e Gestão Ágil  
-💡 Apaixonada por transformar ideias em produtos funcionais e visualmente atraentes  
-🚀 Buscando oportunidades como Desenvolvedora Front-End e em áreas como UI/UX, Product Owner e Scrum
+🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI  
+💻 Foco em Front-end, Design de Interfaces e Gestão Ágil  
+🚀 Buscando oportunidades como Desenvolvedora Front-End
 
 ---
 
 ### 👩‍💻 Sobre mim
 
-Atualmente finalizo o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas.  
-Tenho experiência prática com **desenvolvimento web**, **aplicações mobile**, **design de interfaces** e **levantamento de requisitos**.  
-Estou constantemente evoluindo minhas habilidades técnicas e interpessoais, com nível de inglês **intermediário/avançado**.
+Finalizo o ensino médio junto ao curso técnico de DS. Tenho experiência com:
+
+- **Desenvolvimento Web** (HTML, CSS, JS)  
+- **Mobile com React Native (Expo)**  
+- **Criação de interfaces com foco em UI/UX**  
+- **Levantamento de requisitos e definição de escopo**
+
+Tenho perfil colaborativo, inglês intermediário/avançado e interesse em toda a jornada do produto — da ideia ao código.
 
 ---
 
-### 🌐 Desenvolvimento Web
+### ⚙️ Áreas de Atuação
 
-Atuo no desenvolvimento de páginas web modernas e responsivas, com foco na experiência do usuário e na organização visual.  
-Utilizo boas práticas de HTML, CSS e JavaScript, com atenção ao design responsivo e à acessibilidade.
-
----
-
-### 📱 Desenvolvimento Mobile
-
-Tenho experiência no desenvolvimento de aplicativos utilizando **React Native (Expo)**, com foco em prototipação rápida, funcionalidades intuitivas e design responsivo para diferentes tamanhos de tela, criando de telas interativas, navegação, armazenamento e integração com componentes nativos
+- **Front-End Web:** páginas responsivas, interativas e acessíveis  
+- **Mobile:** apps intuitivos e funcionais com React Native  
+- **Design:** wireframes, protótipos e identidade visual com Canva e Figma  
+- **Produto:** análise, fluxos, escopo e foco na experiência do usuário
 
 ---
 
-### 🎨 Design de Interfaces
-
-Tenho familiaridade com conceitos de UI/UX e gosto de criar soluções visuais alinhadas às necessidades dos usuários.  
-Trabalho com prototipagem e wireframes de baixa e média fidelidade, priorizando a clareza, estética e funcionalidade.
-Utilizo as ferramentas `Canva` e `Figma (básico)`  
-
----
-
-### 🧠 Fases Iniciais de Projeto
-
-Além da parte técnica, me interesso fortemente pelas **etapas iniciais do ciclo de desenvolvimento**, como:
-
-- **Levantamento de requisitos**
-- **Criação de fluxos de usuário**
-- **Definição de escopo**
-- **Organização de funcionalidades**
-
-Gosto de atuar desde o planejamento até a execução, garantindo que o produto final atenda tanto às necessidades do negócio quanto às expectativas do usuário.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -64,19 +44,13 @@ Gosto de atuar desde o planejamento até a execução, garantindo que o produto 
 ### 💼 Projetos em destaque
 
 🔹 [**Reporte Já**](https://github.com/anads07/ProjetoReporteJa)  
-Sistema de registro de ocorrências em condomínios. App mobile com envio de fotos, localização e painel web para administração.
+App para registro de ocorrências com fotos e localização.  
 
 🔹 [**Serene**](https://github.com/anads07/serene-app)  
-Aplicativo de saúde mental para jovens. Diário emocional, sugestões de autocuidado, chat automatizado e gamificação.
+Aplicativo de saúde mental com diário, autocuidado e gamificação.  
 
 🔹 [**Jogo Termo**](https://github.com/anads07/jogo-termo)  
-Jogo inspirado no Wordle, com foco em lógica de programação, experiência do usuário e visual responsivo.
-
----
-
-### 📊 GitHub Stats
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anads07&show_icons=true&theme=default)
+Jogo estilo Wordle, com lógica e foco em UX responsivo.
 
 ---
 
