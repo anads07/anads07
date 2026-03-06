@@ -43,7 +43,7 @@ Também possuo interesse na área de produto e na etapa inicial dos projetos, pa
 ### 💼 Projetos em destaque
 
 🔹 **Serene**  
-https://github.com/anads07/serene-app  
+https://github.com/anads07/SereneTcc.git
 
 Aplicativo de bem-estar e saúde mental desenvolvido com **React Native**, com funcionalidades como diário emocional, sugestões de autocuidado e acompanhamento do estado emocional do usuário. O projeto foi desenvolvido com foco em experiência do usuário, organização de componentes e estruturação de funcionalidades voltadas ao cuidado com a saúde mental.
 
